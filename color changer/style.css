@@ -1,0 +1,72 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+
+}
+ /* #=id; 
+.=class;
+h1=tag; */
+
+/* #car1{
+    width: 100px;
+    height: 120px;
+    background-color: #9a0f0f;
+   
+}
+#car2{
+    width: 110px;
+    height: 90px;
+    background-color: #0f9a0f;
+  
+}
+#car3{
+    width: 120px;
+    height: 100px;
+    background-color: #0f0f9a;
+    
+} */ */
+
+/* 1.position absolute is child and relative ke under rehta hai absolute
+
+2.flexbox me width pe justify content and height pe align items*/
+
+
+html {
+  margin: 0;
+}
+
+span {
+  display: block;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+}
+
+#grey {
+  background: grey;
+}
+
+#white {
+  background: white;
+}
+#blue {
+  background: blue;
+}
+#yellow {
+  background: yellow;
+}
